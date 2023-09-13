@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Project Decription : Nothing Web Page
+
+The Nothing web page aims to provide users with an immersive and visually appealing experiecne, coupled with a seamless navigation system that enables visitors to explore new phones, ear and ear(stick) models and relevent information effortlessly.
+I have effectively achieved these objectives by leveraging HTML, Sass, BEM, while optimizing the wibsite's perfomance and maintainability.
+
+Technologies, used in project:
+
+In the Nothing web page project, I utilized a combination of HTML, Sass, and BEM (Block Element Modifier) methodology to create an engaging and efficient website dedacated to showcasing various electronic devices and related content.
+
+

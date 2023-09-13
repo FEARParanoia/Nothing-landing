@@ -8,7 +8,7 @@ Technologies, used in project:
 In the Nothing web page project, I utilized a combination of HTML, Sass, and BEM (Block Element Modifier) methodology to create an engaging and efficient website dedacated to showcasing various electronic devices and related content.
 
 Additional startup instructions:
-- clone this repository
+- clone this repository (use your terminal) 
 - set up your node version on v14 (use "nvm use v14")
 - use npm install (npm i)
 - use npm start to open web page in browser

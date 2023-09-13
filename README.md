@@ -7,4 +7,5 @@ Technologies, used in project:
 
 In the Nothing web page project, I utilized a combination of HTML, Sass, and BEM (Block Element Modifier) methodology to create an engaging and efficient website dedacated to showcasing various electronic devices and related content.
 
-
+[preview link](https://fearparanoia.github.io/Nothing-landing/)
+[website layout](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802%3A139&mode=dev)

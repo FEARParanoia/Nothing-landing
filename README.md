@@ -13,5 +13,6 @@ Additional startup instructions:
 - use npm install (npm i)
 - use npm start to open web page in browser
 
+Links: 
 - [preview link](https://fearparanoia.github.io/Nothing-landing/)
 - [website layout](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802%3A139&mode=dev)
